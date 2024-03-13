@@ -1,4 +1,4 @@
-module github.com/go-sql-driver/mysql
+module github.com/Wiiiiill/go-mysql
 
 go 1.20
 
